@@ -1,6 +1,6 @@
- <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "https://www.w3.org/TR/html4/loose.dtd">
- <html>
- <body>
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "https://www.w3.org/TR/html4/loose.dtd">
+<html>
+<body>
 <head>
 <meta charset="UTF-8">
 <meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
@@ -9,8 +9,8 @@
 <link href="js-css/sidebar-dx.css" rel="stylesheet" type="text/css">
 <link href="js-css/sidebar-sx.css" rel="stylesheet" type="text/css">
 <script src="js-css/jquery-1.js" type="text/javascript" charset="utf-8"></script>
-		<script src="js-css/jquery.js" type="text/javascript" charset="utf-8"></script>
-		<script type="text/javascript">
+<script src="js-css/jquery.js" type="text/javascript" charset="utf-8"></script>
+<script type="text/javascript">
 			// <![CDATA[
 				
 			$(document).ready(function () {
@@ -21,8 +21,6 @@
 		</script>	
 <title>Homepage</title>
 </head>
-
-
 <!-- Qui inizia la DIV-->
 <div class="main">
 <div class="content">
@@ -41,8 +39,8 @@
 <p>Ricerca</p>
 
       </div>
-<!-- Search Google -->            
-   	    <div style=" margin-top:-13px; margin-bottom:3px;" class="content" >
+<!-- Inizio Ricerca Google -->            
+<div style=" margin-top:-13px; margin-bottom:3px;" class="content" >
 			         
          
    <div>         
@@ -61,8 +59,9 @@
  font-size: 14pt; 
  border: 1px solid #333333; 
  background-color: #111; text-align:center; width:321px; margin-left:16px;  margin-bottom:-8px;
-"></input><br>
-
+">
+</input>
+<br>
 
 <input class="button-images"  type="submit" name="sa" value="&nbsp;" id="sbb" style="
 font-size: 12pt; 
@@ -79,23 +78,29 @@ border:1px solid #333333; "></input>
 </div>
 </div>
 
-<!-- Ricerca Google  -->  
+<!-- Fine Ricerca Google  -->  
 
 
 <div class="hi-icon-wrap hi-icon-effect" style="margin-left:+33px;" align="center">
 <table class="icon" border="0" width="400" align="center">
 					
 <tr>
-<td><a href="https://www.facebook.com/login.php">
-	<img class="imma hi-icon" src="js-css/img/facebook.png" width="55" height="55"></a></td>
+<td>
+<a href="https://www.facebook.com/login.php">
+<img class="imma hi-icon" src="js-css/img/facebook.png" width="55" height="55"></a>
+</td>
 
-<td><a href="https://www.youtube.com">
-	<img class="imma hi-icon" src="js-css/img/youtube.png" width="55" height="55"></a></td>
+<td>
+<a href="https://www.youtube.com">
+img class="imma hi-icon" src="js-css/img/youtube.png" width="55" height="55"></a>
+</td>
 
-						<td> <a href="https://imgur.com"><img class="imma hi-icon" src="js-css/img/imgur.png" width="55" height="55"></a></td>
-		</tr>
-		<!-- TABELLA AGGIUNTIVA DI ICONE
-				<tr>
+<td> 
+<a href="https://imgur.com"><img class="imma hi-icon" src="js-css/img/imgur.png" width="55" height="55"></a>
+</td>
+</tr>
+<!-- TABELLA AGGIUNTIVA DI ICONE
+<tr>
 <td><a href="#">
 <img class="imma hi-icon" src="js-css/img/facebook.png" width="55" height="55"></a>
 </td>
@@ -109,23 +114,21 @@ border:1px solid #333333; "></input>
 </td>
 </tr>
 -->
-                    
-                    
-			  </table>
+</table>
 
-			</div>
+</div>
 <div>
 
 
 
 </div>
 <div>
-
 
 </div>
 <footer>
 <h1><script src="jquery-1.3.1.min.js" type="text/javascript"></script>
-<div id="display"></div>
+<div id="display">
+</div>
 <script type="text/javascript">
 var seconds     = 1;
 var refresher   = function()
