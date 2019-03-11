@@ -3,6 +3,7 @@
 <head>
 <meta charset="UTF-8">
 <meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+<title>Homepage</title>
 <link href="js-css/style.css" rel="stylesheet" type="text/css">
 <link href="js-css/buttons.css" rel="stylesheet" type="text/css">
 <link href="js-css/sidebar-dx.css" rel="stylesheet" type="text/css">
@@ -17,8 +18,8 @@
 			});
 					
 			// ]]>
-		</script>	
-<title>Homepage</title>
+</script>	
+
 </head>
 <body>
 <!-- Qui inizia la DIV-->
