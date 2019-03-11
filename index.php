@@ -4,7 +4,7 @@
 <head>
 <meta charset="UTF-8">
 <meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
-<link href="js-css/style2.css" rel="stylesheet" type="text/css">
+<link href="js-css/style.css" rel="stylesheet" type="text/css">
 <link href="js-css/buttons.css" rel="stylesheet" type="text/css">
 <link href="js-css/sidebar-dx.css" rel="stylesheet" type="text/css">
 <link href="js-css/sidebar-sx.css" rel="stylesheet" type="text/css">
