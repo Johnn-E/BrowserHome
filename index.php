@@ -41,15 +41,6 @@
 <p>Ricerca</p>
 
       </div>
-	
-           
-
-
-
-
-
-
-            
 <!-- Search Google -->            
    	    <div style=" margin-top:-13px; margin-bottom:3px;" class="content" >
 			         
@@ -84,33 +75,40 @@ width:100px;
 margin-top:7px;
 border:1px solid #333333; "></input>
 </form>
-
 </p>
-		</div>
-            </div>
+</div>
+</div>
 
-<!-- Search Google  -->  
+<!-- Ricerca Google  -->  
 
 
-			<div class="hi-icon-wrap hi-icon-effect" style="margin-left:+33px;" align="center">
-			  <table class="icon" border="0" width="400" align="center">
+<div class="hi-icon-wrap hi-icon-effect" style="margin-left:+33px;" align="center">
+<table class="icon" border="0" width="400" align="center">
 					
-					<tr>
-						<td><a href="https://www.facebook.com/login.php"><img class="imma hi-icon" src="js-css/img/facebook.png" width="55" height="55"></a></td>
+<tr>
+<td><a href="https://www.facebook.com/login.php">
+	<img class="imma hi-icon" src="js-css/img/facebook.png" width="55" height="55"></a></td>
 
-						<td><a href="https://www.youtube.com"><img class="imma hi-icon" src="js-css/img/youtube.png" width="55" height="55"></a></td>
+<td><a href="https://www.youtube.com">
+	<img class="imma hi-icon" src="js-css/img/youtube.png" width="55" height="55"></a></td>
 
 						<td> <a href="https://imgur.com"><img class="imma hi-icon" src="js-css/img/imgur.png" width="55" height="55"></a></td>
 		</tr>
-		<!--
+		<!-- TABELLA AGGIUNTIVA DI ICONE
 				<tr>
-						<td><a href="https://github.com/hersel91"><img class="imma hi-icon" src="js-css/img/facebook.png" width="55" height="55"></a></td>
+<td><a href="#">
+<img class="imma hi-icon" src="js-css/img/facebook.png" width="55" height="55"></a>
+</td>
 
-						<td><a href="https://www.youtube.com"><img class="imma hi-icon" src="js-css/img/youtube.png" width="55" height="55"></a></td>
+<td>
+<a href="#"><img class="imma hi-icon" src="js-css/img/youtube.png" width="55" height="55"></a>
+</td>
 
-						<td> <a href="https://imgur.com"><img class="imma hi-icon" src="js-css/img/imgur.png" width="55" height="55"></a></td>
-		</tr>
-		-->
+<td> 
+<a href="#"><img class="imma hi-icon" src="js-css/img/imgur.png" width="55" height="55"></a>
+</td>
+</tr>
+-->
                     
                     
 			  </table>
