@@ -1,6 +1,5 @@
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "https://www.w3.org/TR/html4/loose.dtd">
 <html>
-<body>
 <head>
 <meta charset="UTF-8">
 <meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
@@ -21,6 +20,7 @@
 		</script>	
 <title>Homepage</title>
 </head>
+<body>
 <!-- Qui inizia la DIV-->
 <div class="main">
 <div class="content">
